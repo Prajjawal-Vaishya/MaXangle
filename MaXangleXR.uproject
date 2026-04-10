@@ -19,6 +19,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
